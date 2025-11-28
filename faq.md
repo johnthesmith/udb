@@ -1,3 +1,8 @@
+
+[UDB](./README.md) | [лицензия](./LICENSE.md)
+
+---
+
 # FAQ
 
 # 1
