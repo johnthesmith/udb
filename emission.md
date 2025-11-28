@@ -1,4 +1,6 @@
-[UDB](./README.md) | [UDB](./LICENSE.md)
+
+[UDB](./README.md) | [лицензия](./LICENSE.md)
+
 ---
 
 # Эмиссия
