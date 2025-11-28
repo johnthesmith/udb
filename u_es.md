@@ -9,7 +9,7 @@
 [эмиссии](./emission.md):
 
 ```
-    u_eu = u_ec * ( 1 - k_ec .md)
+u_eu = u_ec * ( 1 - k_ec .md)
 ```
 
     где:
